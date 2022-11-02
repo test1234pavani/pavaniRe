@@ -1,0 +1,9 @@
+{
+	"name": "PavaniTest",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cc7c455b-509c-406e-8652-3ef657d15093",
+		"tenantId": "4dd47266-c5f8-466d-a735-3a167519d4f2"
+	}
+}
